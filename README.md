@@ -3,6 +3,8 @@
 
 ---
 
+<h1 id="bilan">0. Bilan</h1>
+<p><img src="https://i.ibb.co/10FqqVZ/bilan.png" alt="enter image description here"></p>
 <h1 id="global">1. Global</h1>
 <p><img src="https://i.ibb.co/Q8qLqvy/global-1.png" alt="enter image description here"><br>
 <img src="https://i.ibb.co/vXnWGpY/global-2.png" alt="enter image description here"></p>
@@ -42,6 +44,8 @@
 <h3 id="indirecte-avec-composation-">Indirecte avec composation :</h3>
 <p><img src="https://i.ibb.co/rs6rTKL/indirecte.png" alt="enter image description here"></p>
 <h1 id="salaire">11. Salaire</h1>
+<p><img src="https://i.ibb.co/DVGvYpJ/salaire.png" alt="enter image description here"></p>
+<h2 id="pour-lemployeur">11.1 Pour l’employeur</h2>
 <p><strong>Charges :</strong><br>
 Salaire Brut + ONSS Patronal (35% du salaire brut)<br>
 <strong>Coût annuel :</strong><br>
@@ -52,5 +56,17 @@ Salaire employée brut de 4.000€/mois</p>
 <li>Coût annuel pour l’entreprise : 4.000€<em>1,35</em>13,95 = 75.330€</li>
 <li>Coût mensuel = 6.277,5€</li>
 </ul>
-<h1 id="amortissement-linéaire--plus-value">Amortissement linéaire + Plus Value</h1>
+<h2 id="pour-lemployé">11.2 Pour l’employé</h2>
+<ul>
+<li>Brut employé = net employé + ONSS employé + précompte retenu</li>
+<li>ONSS employé = 13,07% du brut</li>
+<li>Précompte retenu sera function de la tranche de revenus dans laquelle l’employé se trouve et de sa situation famiale.</li>
+</ul>
+<h1 id="création-entreprise">12. Création entreprise</h1>
+<p><img src="https://i.ibb.co/NFW97Wm/creation-entreprise.png" alt="enter image description here"></p>
+<h1 id="amortissement-linéaire-1">13. Amortissement linéaire</h1>
+<h2 id="plus-value">Plus-Value</h2>
+<p><img src="https://i.ibb.co/HBvpPds/plus-value.png" alt="enter image description here"></p>
+<h2 id="moins-value">Moins-Value</h2>
+<p><img src="https://i.ibb.co/QbcFxS7/moins-value.png" alt="enter image description here"></p>
 
