@@ -41,6 +41,16 @@
 <p><img src="https://i.ibb.co/KVSFBs1/activation-direct.png" alt="enter image description here"></p>
 <h3 id="indirecte-avec-composation-">Indirecte avec composation :</h3>
 <p><img src="https://i.ibb.co/rs6rTKL/indirecte.png" alt="enter image description here"></p>
-<h1 id="salaire">Salaire</h1>
+<h1 id="salaire">11. Salaire</h1>
+<p><strong>Charges :</strong><br>
+Salaire Brut + ONSS Patronal (35% du salaire brut)<br>
+<strong>Coût annuel :</strong><br>
+12 mois + double pécule de vacances (95%)+ 13ème mois<br>
+**Exemple : **<br>
+Salaire employée brut de 4.000€/mois</p>
+<ul>
+<li>Coût annuel pour l’entreprise : 4.000€<em>1,35</em>13,95 = 75.330€</li>
+<li>Coût mensuel = 6.277,5€</li>
+</ul>
 <h1 id="amortissement-linéaire--plus-value">Amortissement linéaire + Plus Value</h1>
 
